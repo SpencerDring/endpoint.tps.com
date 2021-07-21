@@ -20,6 +20,15 @@
     },
     {
       "NewsDesc": "Welcome to TPS Alpha! Thank you for taking time to test TPS."
+    },
+    {
+      "ErrorEnabled": "true"
+    },
+    {
+      "ErrorHeader": "Build 49"
+    },
+    {
+      "ErrorDesc": "Build 49 releases 25/07/21."
     }
   ]
 }
