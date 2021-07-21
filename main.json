@@ -13,7 +13,7 @@
       "DaysUntilSeasonEnds": "90"
     },
     {
-      "MMSEnabled": "false"
+      "MMSEnabled": "true"
     },
     {
       "NewsTitle": "Welcome!"
@@ -29,6 +29,9 @@
     },
     {
       "ErrorDesc": "Build 49 releases 25/07/21."
+    },
+    {
+      "EnabledPlaylist1": "N/A"
     }
   ]
 }
