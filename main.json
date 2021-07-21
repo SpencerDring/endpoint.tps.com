@@ -14,6 +14,12 @@
     },
     {
       "MMSEnabled": "false"
+    },
+    {
+      "NewsTitle": "Welcome!"
+    },
+    {
+      "NewsDesc": "Welcome to TPS Alpha! Thank you for taking time to test TPS."
     }
   ]
 }
