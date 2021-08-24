@@ -1,7 +1,7 @@
 {
   "MainContent": [
     {
-      "UnderMaintenance": "false"
+      "UnderMaintenance": "true"
     },
     {
       "Version": "ALPHA"
@@ -28,7 +28,7 @@
       "ErrorHeader": "Preview Build"
     },
     {
-      "ErrorDesc": "Preview Build 'PB_49A' releases 07/08/21, the servers will be undergoing maintenance during this time."
+      "ErrorDesc": "Preview Build 'PB_49A' releases 26/08/21, the servers will be undergoing maintenance during this time."
     },
     {
       "EnabledPlaylist1": "Playlist_"
