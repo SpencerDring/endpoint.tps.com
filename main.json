@@ -1,7 +1,7 @@
 {
   "MainContent": [
     {
-      "UnderMaintenance": "true"
+      "UnderMaintenance": "false"
     },
     {
       "Version": "ALPHA"
@@ -10,7 +10,7 @@
       "Season": "ALPHA"
     },
     {
-      "DaysUntilSeasonEnds": "90"
+      "DaysUntilSeasonEnds": "89"
     },
     {
       "MMSEnabled": "true"
@@ -25,10 +25,10 @@
       "ErrorEnabled": "true"
     },
     {
-      "ErrorHeader": "Preview Build"
+      "ErrorHeader": "Excuse Us..."
     },
     {
-      "ErrorDesc": "Preview Build 'PB_49A' releases 26/08/21, the servers will be undergoing maintenance during this time."
+      "ErrorDesc": "Due to an unintentional bug, the CobrAR has been disabled."
     },
     {
       "EnabledPlaylist1": "Playlist_"
