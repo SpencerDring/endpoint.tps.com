@@ -32,6 +32,9 @@
     },
     {
       "EnabledPlaylist1": "Playlist_"
+    },
+    {
+      "EnabledPlaylist2": "Playlist_"
     }
   ]
 }
