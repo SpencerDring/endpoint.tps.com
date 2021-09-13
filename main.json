@@ -31,10 +31,10 @@
       "ErrorDesc": "The news tab is temporarilly unavalible on android devices while we fix a bug."
     },
     {
-      "EnabledPlaylist1": "Playlist_"
+      "EnabledPlaylist1": "Playlist_BETATest_Solos"
     },
     {
-      "EnabledPlaylist2": "Playlist_"
+      "EnabledPlaylist2": "Playlist_Event_Any"
     }
   ]
 }
