@@ -7,28 +7,28 @@
       "Version": "ALPHA"
     },
     {
-      "Season": "ALPHA"
+      "Season": "Dev Enviroment"
     },
     {
-      "DaysUntilSeasonEnds": "89"
+      "DaysUntilSeasonEnds": "∞"
     },
     {
       "MMSEnabled": "true"
     },
     {
-      "NewsTitle": "Welcome!"
+      "NewsTitle": "Connected to Developer Enviroment"
     },
     {
-      "NewsDesc": "Welcome to TPS Alpha! Thank you for taking time to test TPS."
+      "NewsDesc": "Welcome to the TPS Developer enviroment! This enviroment is intented for prototyping new features."
     },
     {
       "ErrorEnabled": "true"
     },
     {
-      "ErrorHeader": "Excuse Us..."
+      "ErrorHeader": "Dev Enviroment"
     },
     {
-      "ErrorDesc": "The news tab is temporarilly unavalible on android devices while we fix a bug."
+      "ErrorDesc": "This enviroment contains confidential data, do not take screeenshots."
     },
     {
       "EnabledPlaylist1": "Playlist_"
