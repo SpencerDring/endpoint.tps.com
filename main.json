@@ -7,28 +7,28 @@
       "Version": "ALPHA"
     },
     {
-      "Season": "ALPHA"
+      "Season": "Sandbox Enviroment"
     },
     {
-      "DaysUntilSeasonEnds": "89"
+      "DaysUntilSeasonEnds": "∞"
     },
     {
       "MMSEnabled": "true"
     },
     {
-      "NewsTitle": "Welcome!"
+      "NewsTitle": "Connected to Sandbox Enviroment"
     },
     {
-      "NewsDesc": "Welcome to TPS Alpha! Thank you for taking time to test TPS."
+      "NewsDesc": "Welcome to the TPS Sandbox enviroment! This enviroment is intented for testing ready-to-release features."
     },
     {
       "ErrorEnabled": "true"
     },
     {
-      "ErrorHeader": "Excuse Us..."
+      "ErrorHeader": "Sandbox Enviroment"
     },
     {
-      "ErrorDesc": "The news tab is temporarilly unavalible on android devices while we fix a bug."
+      "ErrorDesc": "This enviroment contains no confidential data, screeenshots are allowed."
     },
     {
       "EnabledPlaylist1": "Playlist_"
