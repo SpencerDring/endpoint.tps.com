@@ -22,7 +22,7 @@
       "NewsDesc": "Welcome to TPS Alpha! Thank you for taking time to test TPS."
     },
     {
-      "ErrorEnabled": "true"
+      "ErrorEnabled": "false"
     },
     {
       "ErrorHeader": "Excuse Us..."
