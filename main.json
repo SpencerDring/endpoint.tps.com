@@ -22,10 +22,10 @@
       "NewsDesc": "Welcome to TPS Alpha! Thank you for taking time to test TPS."
     },
     {
-      "ErrorEnabled": "false"
+      "ErrorEnabled": "true"
     },
     {
-      "ErrorHeader": "Excuse Us..."
+      "ErrorHeader": "Pardon Us..."
     },
     {
       "ErrorDesc": "The news tab is temporarilly unavalible on android devices while we fix a bug."
@@ -35,6 +35,9 @@
     },
     {
       "CurrentEvent": "TPSEID_TestEvent"
+    },
+    {
+      "CurrentLeaderboard": "TPSLID_TestEvent"
     }
   ]
 }
