@@ -25,10 +25,10 @@
       "ErrorEnabled": "true"
     },
     {
-      "ErrorHeader": "Pardon Us..."
+      "ErrorHeader": "Our Mistake..."
     },
     {
-      "ErrorDesc": "The news tab is temporarilly unavalible on android devices while we fix a bug."
+      "ErrorDesc": "The news tab has been temporarilly disabled and will be re-enabled in the next update."
     },
     {
       "DefaultPlaylist": "Playlist_Stress"
