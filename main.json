@@ -25,10 +25,10 @@
       "ErrorEnabled": "true"
     },
     {
-      "ErrorHeader": "Our Mistake..."
+      "ErrorHeader": "Alpha Version"
     },
     {
-      "ErrorDesc": "The news tab has been temporarilly disabled and will be re-enabled in the next update."
+      "ErrorDesc": "This is an Alpha version, bugs are expected. Developed by Spencer Dring."
     },
     {
       "DefaultPlaylist": "Playlist_Stress"
