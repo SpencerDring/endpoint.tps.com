@@ -1,16 +1,16 @@
 {
   "MainContent": [
     {
-      "UnderMaintenance": "false"
+      "UnderMaintenance": "true"
     },
     {
       "Version": "ALPHA"
     },
     {
-      "Season": "ALPHA"
+      "Season": "DEV"
     },
     {
-      "DaysUntilSeasonEnds": "???"
+      "DaysUntilSeasonEnds": "∞"
     },
     {
       "MMSEnabled": "true"
@@ -25,10 +25,10 @@
       "ErrorEnabled": "true"
     },
     {
-      "ErrorHeader": "Alpha Version"
+      "ErrorHeader": "Under Maintenance"
     },
     {
-      "ErrorDesc": "This is an Alpha version, bugs are expected. Developed by Spencer Dring."
+      "ErrorDesc": "Servers are going down for temporary maintenance. See you soon!"
     },
     {
       "DefaultPlaylist": "Playlist_Stress"
