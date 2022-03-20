@@ -1,43 +1,10 @@
 {
-  "MainContent": [
+  "VersioningCheckData": [
     {
-      "UnderMaintenance": "true"
+      "LiveBuildVer": "2022.6.20.3"
     },
     {
-      "Version": "ALPHA"
-    },
-    {
-      "Season": "DEV"
-    },
-    {
-      "DaysUntilSeasonEnds": "∞"
-    },
-    {
-      "MMSEnabled": "true"
-    },
-    {
-      "NewsTitle": "Welcome!"
-    },
-    {
-      "NewsDesc": "Welcome to TPS Alpha! Thank you for taking time to test TPS."
-    },
-    {
-      "ErrorEnabled": "true"
-    },
-    {
-      "ErrorHeader": "Under Maintenance"
-    },
-    {
-      "ErrorDesc": "Servers are going down for temporary maintenance. See you soon!"
-    },
-    {
-      "DefaultPlaylist": "Playlist_Stress"
-    },
-    {
-      "CurrentEvent": "TPSEID_TestEvent"
-    },
-    {
-      "CurrentLeaderboard": "TPSLID_TestEvent"
+      "DevBuildVer": "2022.6.20.3"
     }
   ]
 }
