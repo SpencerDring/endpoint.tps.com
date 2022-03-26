@@ -1,0 +1,13 @@
+{
+  "NewsContent": [
+    {
+      "NewsTitle": "News System Test"
+    },
+    {
+      "NewsText": "This is a test of The Inverse news system."
+    },
+    {
+      "LastUpdated": "26/03/22"
+    }
+  ]
+}
