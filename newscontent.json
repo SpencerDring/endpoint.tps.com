@@ -1,9 +1,9 @@
 {
    "NewsContent":[
       {
-         "NewsTitle":"News System Test",
-         "NewsText":"This is a test of The Inverse news system.",
-         "LastUpdated":"26/03/22"
+         "NewsTitle":"Offline Test 1",
+         "NewsText":"Welcome to The Inverse! You are currently participating in our first Offline Test! Please make sure to report any bugs you find. That way, our team can make the game even better before it's launched.",
+         "LastUpdated":"26/03/22 08:41"
       }
    ]
 }
