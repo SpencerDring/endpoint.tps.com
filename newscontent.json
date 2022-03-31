@@ -1,9 +1,9 @@
 {
    "NewsContent":[
       {
-         "NewsTitle":"Offline Test 1",
-         "NewsText":"Welcome to The Inverse! You are currently participating in our first Offline Test! Please make sure to report any bugs you find. That way, our team can make the game even better before it's launched.",
-         "LastUpdated":"26/03/22 08:41"
+         "NewsTitle":"Dev Enviroment",
+         "NewsText":"If you can see this, you are either a developer or you are naughty naughty!",
+         "LastUpdated":"31/03/22 23:44"
       }
    ]
 }
