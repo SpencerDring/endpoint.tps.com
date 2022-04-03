@@ -1,7 +1,7 @@
 {
   "MainContent": [
     {
-      "UnderMaintenance": "true"
+      "UnderMaintenance": "false"
     },
     {
       "Version": "ALPHA"
@@ -10,7 +10,7 @@
       "Season": "DEV"
     },
     {
-      "DaysUntilSeasonEnds": "∞"
+      "DaysUntilSeasonEnds": "???"
     },
     {
       "MMSEnabled": "true"
@@ -25,10 +25,10 @@
       "ErrorEnabled": "true"
     },
     {
-      "ErrorHeader": "Under Maintenance"
+      "ErrorHeader": "Server Overload"
     },
     {
-      "ErrorDesc": "Servers are going down for temporary maintenance. See you soon!"
+      "ErrorDesc": "Due to the mass spike in player logins recently, servers may be laggy!"
     },
     {
       "DefaultPlaylist": "Playlist_Stress"
