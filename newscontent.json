@@ -1,8 +1,8 @@
 {
    "NewsContent":[
       {
-         "NewsTitle":"Connection Error!",
-         "NewsText":"Failed to connect to the GameInfo server. Please try again later.",
+         "NewsTitle":"Dev Client",
+         "NewsText":"Any dev client updates will appear here...",
          "LastUpdated":"04/05/22 23:59"
       }
    ]
