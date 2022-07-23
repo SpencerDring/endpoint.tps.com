@@ -1,0 +1,16 @@
+{
+  "content_list": [
+    {
+    "content_name": "The Inverse: Book One",
+    "content_url": "http://sample.siedev.net/test.pkg",
+    "content_icon": "http://sample.siedev.net/icon.png",
+    "content_description": "EP8287-PPSA09510_00-8174784348977738"
+     },
+    {
+    "content_name": "The Inverse: Book Two",
+    "content_url": "http://sample.siedev.net/test2.pkg",
+    "content_icon": "http://sample.siedev.net/icon2.png",
+    "content_description": "EP8287-PPSA09511_00-1644860723146313"
+     }
+  ]
+}
